@@ -1,0 +1,5 @@
+stages:
+  build:
+    cmd: python stages/convert.py .bb/dependencies/catalog-qsar-dataset-catalog-data-gov/brick brick
+    deps: [stages/convert.py, .bb/dependencies.txt]
+    outs: [brick]

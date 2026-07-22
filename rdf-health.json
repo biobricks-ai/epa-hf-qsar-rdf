@@ -1,0 +1,36 @@
+{
+  "counts": {
+    "blank_nodes": 0,
+    "classes": 2,
+    "identifier_subjects": 0,
+    "labeled_typed_subjects": 21263,
+    "linked_identifier_subjects": 0,
+    "measurements": 14494,
+    "measurements_with_units": 14494,
+    "predicates": 9,
+    "provenance_subjects": 21263,
+    "subjects": 22472,
+    "triples": 132111,
+    "typed_subjects": 21263
+  },
+  "findings": [],
+  "inputs": [
+    "/tmp/tmp.M7VTpD67op"
+  ],
+  "metrics": {
+    "blank_node_ratio": 0.0,
+    "measurement_without_unit_ratio": 0.0,
+    "novel_class_ratio": 0.0,
+    "novel_predicate_ratio": 0.0,
+    "unlabeled_typed_ratio": 0.0,
+    "unlinked_identifier_ratio": 0.0,
+    "untyped_subject_ratio": 0.0538
+  },
+  "passed": true,
+  "schema_version": 1,
+  "score": 98.5,
+  "vocabulary": {
+    "novel_classes": [],
+    "novel_predicates": []
+  }
+}

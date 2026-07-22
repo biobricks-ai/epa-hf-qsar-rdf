@@ -1,0 +1,101 @@
+{
+  "tables": {
+    "chronic_oral_toxicity_all": {
+      "source_rows": 1173,
+      "represented_rows": 1173,
+      "source_fields": 13,
+      "fields_dispositioned": 13,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "chronic_oral_toxicity_frequency": {
+      "source_rows": 692,
+      "represented_rows": 692,
+      "source_fields": 12,
+      "fields_dispositioned": 12,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "chronic_oral_toxicity_selected": {
+      "source_rows": 147,
+      "represented_rows": 147,
+      "source_fields": 7,
+      "fields_dispositioned": 7,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "mcda_cancer_hazard": {
+      "source_rows": 10,
+      "represented_rows": 10,
+      "source_fields": 19,
+      "fields_dispositioned": 19,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "mcda_chemical_list": {
+      "source_rows": 1076,
+      "represented_rows": 1076,
+      "source_fields": 8,
+      "fields_dispositioned": 8,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "mcda_episuite_properties": {
+      "source_rows": 453,
+      "represented_rows": 453,
+      "source_fields": 18,
+      "fields_dispositioned": 18,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "mcda_federal_toxicity": {
+      "source_rows": 1076,
+      "represented_rows": 1076,
+      "source_fields": 13,
+      "fields_dispositioned": 13,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "mcda_noncancer_hazard": {
+      "source_rows": 37,
+      "represented_rows": 37,
+      "source_fields": 19,
+      "fields_dispositioned": 19,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "qsar_reference_values": {
+      "source_rows": 1173,
+      "represented_rows": 1173,
+      "source_fields": 13,
+      "fields_dispositioned": 13,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "qsar_topkat_loael": {
+      "source_rows": 515,
+      "represented_rows": 515,
+      "source_fields": 12,
+      "fields_dispositioned": 12,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    },
+    "qsar_topkat_ranked": {
+      "source_rows": 417,
+      "represented_rows": 417,
+      "source_fields": 7,
+      "fields_dispositioned": 7,
+      "row_coverage": 1,
+      "field_disposition_coverage": 1
+    }
+  },
+  "source_rows": 6769,
+  "represented_rows": 6769,
+  "source_nonempty_cells": 35037,
+  "mapped_nonempty_cells": 35037,
+  "semantic_datums": 14494,
+  "predicted_datums": 11318,
+  "reference_datums": 406,
+  "row_coverage": 1.0,
+  "mapped_cell_coverage": 1.0
+}

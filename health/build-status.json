@@ -1,0 +1,1 @@
+{"status":"validated-local-build","graph_integration":true,"source_rows":6769,"represented_rows":6769,"row_coverage":1.0,"mapped_cell_coverage":1.0,"semantic_datums":14494,"predicted_datums":11318,"reference_datums":406,"tests":{"status":"passed","count":4},"ontology_health":{"status":"passed","score":98.5,"findings":0}}
